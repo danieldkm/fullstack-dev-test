@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "92544135193",
+    "project_id": "smash-gift-38b23",
+    "storage_bucket": "smash-gift-38b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92544135193:android:a834f34266398e9d607a88",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92544135193-v4i48vlomfo58ap4pieia06thbpoh6gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMsl0AI1y9O-KfaSw_DLo5MpBPlD0lZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92544135193-v4i48vlomfo58ap4pieia06thbpoh6gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92544135193-e53a57t38m82lsrreiid97iomkri8jli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
